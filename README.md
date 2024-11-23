@@ -17,4 +17,5 @@ Este proyecto es una página HTML de una sola página que muestra mi historial p
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/wanderley1525/Curriculum.git
+   git clone
+   https://github.com/wanderley1525/Curriculum.git
